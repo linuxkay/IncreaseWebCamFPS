@@ -1,3 +1,5 @@
+# http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_gui/py_video_display/py_video_display.html
+# this is just testing. Opencv vs ffmpeg recording
 import numpy as np
 import cv2
 
