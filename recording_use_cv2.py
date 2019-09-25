@@ -7,7 +7,7 @@ cap = cv2.VideoCapture("http://192.168.0.100/cgi-bin/hi3510/snap.cgi?&-getstream
 
 # Define the codec and create VideoWriter object
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
-out = cv2.VideoWriter('/tmp/output.avi',fourcc, 20.0, (640,352))
+out = cv2.VideoWriter('/tmp/video/output.avi',fourcc, 20.0, (640,352))
 
 while(cap.isOpened()):
     ret, frame = cap.read()
