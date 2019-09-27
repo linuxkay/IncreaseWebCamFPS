@@ -1,0 +1,2 @@
+# IncreaseWebCamFPS
+Just my notes 
