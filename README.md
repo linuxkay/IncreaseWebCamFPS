@@ -15,7 +15,7 @@ Credits to https://stackoverflow.com/questions/44404093/timeout-for-10-seconds-w
 
 Results in `FPS_Resutls.ods`
 
-So basically, sinlge core system won't be able to get fps increase.
+So basically, sinlge core system won't be able to achieve better FPS.
 
 However, it seems much more stable than cv2.VideoCapture.
 
