@@ -19,7 +19,7 @@ So basically, sinlge core system won't be able to achieve better FPS.
 
 However, one benefit of using imtuils in single core system is more stable than cv2.VideoCapture.
 
-Using imutils in multile core gives better results
+Using imutils in multile core system gives better results
 
 # Author
 
