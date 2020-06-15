@@ -1,7 +1,26 @@
 # IncreaseWebCamFPS
+
+## Category
+
+Image recognition 
+
+## Description
+
 Trying to get better FPS for Opencv
 
-# Update info
+## Demo in Animation
+
+## Overview
+
+## Requirements
+
+## Install
+
+## Usage
+
+## Contribution
+
+## Updates
 
 2019/9/27 
 
@@ -21,6 +40,9 @@ However, one benefit of using imtuils in single core system is more stable than 
 
 Using imutils in multile core system gives better results
 
-# Author
+## Licence
+[MIT]
 
-Linuxkay
+## Author
+
+[linuxkay](https://github.com/linuxkay)
